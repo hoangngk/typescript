@@ -1,6 +1,7 @@
 {
   "files": [
-    "nullableType.ts"
+//    "nullableType.ts"
+    "generics.ts"
   ],
   "compilerOptions": {
     "noImplicitAny": true,
